@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Victorina", "Victorina\Victorina.vcxproj", "{767EDA3B-4984-4B8D-9630-D2402DE12156}"
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "Win32Project2", "..\Win32Project2\Debug\Win32Project2.exe", "{3CB7F203-FE95-482B-9998-1900CA79682F}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\Win32Project2\Debug\Win32Project2.exe
+		RemoteMachine = COMPCC
+		StartingDirectory = C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\Win32Project2\Debug
+		Environment = По умолчанию
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{767EDA3B-4984-4B8D-9630-D2402DE12156}.Debug|x64.ActiveCfg = Debug|x64
+		{767EDA3B-4984-4B8D-9630-D2402DE12156}.Debug|x64.Build.0 = Debug|x64
+		{767EDA3B-4984-4B8D-9630-D2402DE12156}.Debug|x86.ActiveCfg = Debug|Win32
+		{767EDA3B-4984-4B8D-9630-D2402DE12156}.Debug|x86.Build.0 = Debug|Win32
+		{767EDA3B-4984-4B8D-9630-D2402DE12156}.Release|x64.ActiveCfg = Release|x64
+		{767EDA3B-4984-4B8D-9630-D2402DE12156}.Release|x64.Build.0 = Release|x64
+		{767EDA3B-4984-4B8D-9630-D2402DE12156}.Release|x86.ActiveCfg = Release|Win32
+		{767EDA3B-4984-4B8D-9630-D2402DE12156}.Release|x86.Build.0 = Release|Win32
+		{3CB7F203-FE95-482B-9998-1900CA79682F}.Debug|x64.ActiveCfg = Release|x86
+		{3CB7F203-FE95-482B-9998-1900CA79682F}.Debug|x86.ActiveCfg = Release|x86
+		{3CB7F203-FE95-482B-9998-1900CA79682F}.Release|x64.ActiveCfg = Release|x86
+		{3CB7F203-FE95-482B-9998-1900CA79682F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
